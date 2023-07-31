@@ -91,17 +91,17 @@ export const feedback = [
 export const stats = [
   {
     id: 'stats-1',
-    title: 'Usuário Ativo',
+    title: 'Usuários Ativos',
     value: '3800+',
   },
   {
     id: 'stats-2',
-    title: 'Confiável pela Empresa',
+    title: 'Confiáveis pela Empresa',
     value: '230+',
   },
   {
     id: 'stats-3',
-    title: 'Transação',
+    title: 'De transações',
     value: 'R$230M+',
   },
 ]
@@ -112,7 +112,7 @@ export const footerLinks = [
 
     links: [
       {
-        name: 'Content',
+        name: 'Conteúdos',
         link: 'https://www.hoobank.com/content/',
       },
       {
